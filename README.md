@@ -6,6 +6,10 @@ A open Source BIM Analytics Platform.
 
 ## Tools to track / ever-increasing
 - Revit_log and journal files
+  - Revit Clinic Journal File Parser 2011 
+    https://revitclinic.typepad.com/my_weblog/2011/11/journal-file-parser.html
+  - Visualizing Revit Journals
+    https://insidethefactory.typepad.com/my_weblog/2012/02/visualizing-journals.html
 - Navisworks_log and clashes
 - Dynamo log file - checkout the data tracking tool Autodesk is using for Dynamo
 - Hypar
@@ -23,6 +27,8 @@ A open Source BIM Analytics Platform.
 
 ## Database
 - Identify tools - APACHE tools?
+  - Apache logs parser with Python for absolute beginners | Projects
+    https://www.youtube.com/watch?v=4DdueeIE8Rs&feature=youtu.be
 - Build ecosystems
 
 
