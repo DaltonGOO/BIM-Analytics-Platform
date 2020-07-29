@@ -12,6 +12,13 @@ A open Source BIM Analytics Platform.
 - BIM360
 - AutoCAD
 - SketchUp
+- Enscape
+  - Enscape main plugin log files:
+    C:\Users\%USERNAME%\AppData\Roaming\Enscape\Data\Logs
+
+  - Revit plugin log files:
+    C:\Users\%USERNAME%\AppData\Local\Temp\Enscape\Logs\EnscapeRevitPlugin
+
 
 
 ## Database
