@@ -10,8 +10,13 @@ A open Source BIM Analytics Platform.
     https://revitclinic.typepad.com/my_weblog/2011/11/journal-file-parser.html
   - Visualizing Revit Journals
     https://insidethefactory.typepad.com/my_weblog/2012/02/visualizing-journals.html
+  - Revit Journal file
+    %LOCALAPPDATA%\Autodesk\Revit\Autodesk Revit ####\Journals
+  - Revit Log file
 - Navisworks_log and clashes
 - Dynamo log file - checkout the data tracking tool Autodesk is using for Dynamo
+  - Dynamo log file
+    C:\Users\%USERNAME%\AppData\Roaming\Dynamo\Dynamo Revit\2.5\Logs
 - Hypar
 - BIM360
 - AutoCAD
