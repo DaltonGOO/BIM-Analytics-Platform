@@ -31,6 +31,116 @@ A open Source BIM Analytics Platform.
 
 
 ## Database
+### Requirements
+- Data integrity
+- Supported operations
+- Modeling relationships
+- Supported data types
+- Transaction support
+- Scalability
+- Redundancy
+- Schema flexibility
+- Performance
+- Integrations
+  
+  
+### HDFS 
+
+#### Characteristics
+- Files and directories
+- Distributed file system
+- Any type of file
+- Commodity hardware
+- Streaming access
+- Query support with Hive and Impala
+
+#### Assessment 
+- Strengths
+  - Linear scaling
+  - Redundancy
+  - Security
+  - High availability
+  
+- Shortcomings
+  - No updates 
+  - Limited querying
+  - Queries_very slow_bad for live dashboards
+  - Not for small data
+  
+- Applications
+  - Raw dumps
+  - Media storage
+  - Data backups
+  
+#### Platforms
+
+
+### RDBMS - Oracle
+
+#### Characteristics
+- Tables, rows, columns
+- Schema driven
+- SQL-based queries
+- Number crunching
+
+#### Assessment
+
+- Strenths
+  - Transactions
+  - Speed
+  - Data integrity
+  - Security
+- Shortcomings
+  - Linear scaling
+  - Text/media
+  - Complex data types
+  - Cost
+- Applications
+  - Master data
+  - OLTP
+  - Update intensive data
+  - Data Warehouse
+ 
+
+
+#### Other Platforms
+- Microsoft SQL Server
+- MySQL
+- MariaDB
+- PostgreSQL
+
+
+### Document Databases - MongoDB
+
+#### Characteristics
+- JSON documents
+- Flexible structures
+- Document key
+- Indexing
+- Sharded clusters
+
+#### Assessment
+- Strengths
+  - Complex data types
+  - Rich querying
+  - Full text search
+  - Scalability
+- Shortcomings
+  - No transactions
+  - No media storage
+  - Joins not optimal
+  - No attribute-based security
+- Applications
+  - Blogs
+  - Catalogs
+  - RDBMS alternative
+  
+#### Other Platforms
+- Elasticsearch
+- Couchbase
+  
+  
+### Research 
 - Identify tools - APACHE tools?
   - Apache logs parser with Python for absolute beginners | Projects
     https://www.youtube.com/watch?v=4DdueeIE8Rs&feature=youtu.be
