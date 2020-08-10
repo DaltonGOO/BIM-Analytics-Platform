@@ -16,17 +16,17 @@ A open Source BIM Analytics Platform.
 - Navisworks_log and clashes
 - Dynamo log file - checkout the data tracking tool Autodesk is using for Dynamo
   - Dynamo log file
-    C:\Users\%USERNAME%\AppData\Roaming\Dynamo\Dynamo Revit\2.5\Logs
+    C:\Users\\%USERNAME%\AppData\Roaming\Dynamo\Dynamo Revit\2.5\Logs
 - Hypar
 - BIM360
 - AutoCAD
 - SketchUp
 - Enscape
   - Enscape main plugin log files:
-    C:\Users\%USERNAME%\AppData\Roaming\Enscape\Data\Logs
+    C:\Users\\%USERNAME%\AppData\Roaming\Enscape\Data\Logs
 
   - Revit plugin log files:
-    C:\Users\%USERNAME%\AppData\Local\Temp\Enscape\Logs\EnscapeRevitPlugin
+    C:\Users\\%USERNAME%\AppData\Local\Temp\Enscape\Logs\EnscapeRevitPlugin
 
 
 
