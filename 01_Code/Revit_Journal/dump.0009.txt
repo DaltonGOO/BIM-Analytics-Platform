@@ -1,0 +1,1 @@
+CollaborateShellFolder::SetPIDL(PIDL 0xf90f3e40)   Root 00000000-0000-0000-0000-000000000000
