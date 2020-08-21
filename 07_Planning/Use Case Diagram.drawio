@@ -1,40 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T04:40:56.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="6ztHgZG9HgAi6oxB3XJh" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T04:47:24.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="rOA6-VrJjK_mwbHiSeO1" version="13.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2249" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-60" y="150" />
-              <mxPoint x="-60" y="150" />
+              <mxPoint x="-580" y="150" />
+              <mxPoint x="-580" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="BIM Manager looks for Revit user data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-120" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="-640" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9UlWXXlIFFLhdjeoYv-E-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="9UlWXXlIFFLhdjeoYv-E-5">
+        <mxCell id="9UlWXXlIFFLhdjeoYv-E-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="9UlWXXlIFFLhdjeoYv-E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9UlWXXlIFFLhdjeoYv-E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="9UlWXXlIFFLhdjeoYv-E-7">
+        <mxCell id="9UlWXXlIFFLhdjeoYv-E-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="9UlWXXlIFFLhdjeoYv-E-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9UlWXXlIFFLhdjeoYv-E-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="9UlWXXlIFFLhdjeoYv-E-9">
+        <mxCell id="9UlWXXlIFFLhdjeoYv-E-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="9UlWXXlIFFLhdjeoYv-E-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Receives all Journal/ Log Files for user&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-110" y="180" width="100" height="80" as="geometry" />
+          <mxGeometry x="-630" y="180" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9UlWXXlIFFLhdjeoYv-E-5" value="&lt;span&gt;Identify training needs&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-290" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="9UlWXXlIFFLhdjeoYv-E-5" value="&lt;span&gt;Identify training needs&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-810" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9UlWXXlIFFLhdjeoYv-E-7" value="Identify Automation opportunities" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-120" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="9UlWXXlIFFLhdjeoYv-E-7" value="Identify Automation opportunities" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-640" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9UlWXXlIFFLhdjeoYv-E-9" value="track typical modeling behavior&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="9UlWXXlIFFLhdjeoYv-E-9" value="track typical modeling behavior&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-470" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="va0-cpsgBwFbXvHo2kVd-1" target="va0-cpsgBwFbXvHo2kVd-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="150" />
+              <mxPoint x="-50" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-1" value="BIM Manager looks for Revit Model data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="va0-cpsgBwFbXvHo2kVd-5" target="va0-cpsgBwFbXvHo2kVd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="va0-cpsgBwFbXvHo2kVd-5" target="va0-cpsgBwFbXvHo2kVd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="va0-cpsgBwFbXvHo2kVd-5" target="va0-cpsgBwFbXvHo2kVd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-5" value="Receives all Revit models data&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-100" y="180" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-6" value="&lt;span&gt;learn from models evolution&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-7" value="look for typical elements for template" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va0-cpsgBwFbXvHo2kVd-8" value="look at model warnings" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
