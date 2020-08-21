@@ -8,7 +8,7 @@ Open Source BIM Analytics Platform.
 - Have multiple options for viewing the data
 - monitor data | such as Revit warnings, large models, large amount of clashes
 - track data when users are not online
-
+- data security | an option to share the data
 
 
 ## Tools to track / ever-increasing
