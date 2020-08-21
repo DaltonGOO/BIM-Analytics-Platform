@@ -1,7 +1,14 @@
 ![Image Alien](https://github.com/DaltonGOO/BIM-Analytics-Platform/blob/master/06_Images/Logo%20v3%20WIth%20just%20the%20Alien_25.png)
 
 # BIM-Analytics-Platform
-A Open Source BIM Analytics Platform. 
+Open Source BIM Analytics Platform. 
+
+## Functional Requirements
+- Allow users to change the interface and pick what data is shown
+- Have multiple options for viewing the data
+- monitor data | such as Revit warnings, large models, large amount of clashes
+- track data when users are not online
+
 
 
 ## Tools to track / ever-increasing
