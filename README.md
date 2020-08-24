@@ -2,6 +2,7 @@
 
 # BIM-Analytics-Platform
 Open Source BIM Analytics Platform. 
+Accelerate AEC Through Data.
 
 ## Functional Requirements
 - Allow users to change the interface and pick what data is shown
@@ -10,6 +11,10 @@ Open Source BIM Analytics Platform.
 - track data when users are not online
 - data security | an option to share the data
 
+## Non-Functional Requirements
+- Available 24/7
+- Web, Desktop, and Mobile Application
+- Simple to use
 
 ## Tools to track / ever-increasing
 - Revit_log and journal files
