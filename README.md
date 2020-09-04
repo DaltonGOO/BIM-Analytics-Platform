@@ -160,3 +160,10 @@ Accelerate AEC Through Data.
 
 
 ### Review Project Kanban for task
+
+
+"Without data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway." 
+-Geoffrey Moore
+
+"Without data your're just another person with an opinion"
+-W. Edwards Deming
