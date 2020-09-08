@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T15:06:55.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="e-W7imBSzCj1stIM8WkV" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T15:07:22.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="xjZ6eVQ-zknRItPBd-b6" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2249" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="va0-cpsgBwFbXvHo2kVd-1" value="BIM Manager looks for Revit Model data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-130" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="-110" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="va0-cpsgBwFbXvHo2kVd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startFill=1;endArrow=block;endFill=0;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="va0-cpsgBwFbXvHo2kVd-5" target="va0-cpsgBwFbXvHo2kVd-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
