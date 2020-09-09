@@ -3,6 +3,7 @@
 # BIM-Analytics-Platform
 Open Source BIM Analytics Platform. 
 Accelerate AEC Through Data.
+- Agnostic, Scalable, and Agile
 
 ## Functional Requirements
 - Allow users to change the interface and pick what data is shown
