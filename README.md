@@ -160,8 +160,8 @@ Accelerate AEC Through Data.
 - Build ecosystems
 
 
-### Review Project Kanban for task
-
+### Tools to Track
+![Navisworks workflow Example](https://github.com/DaltonGOO/BIM-Analytics-Platform/blob/master/06_Images/It%20is%20all%20in%20the%20Data%20Visualizing%20Clash%20Metrics%20with%20Navisworks%20and%20Power%20BI.jpg)
 
 "Without data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway." 
 -Geoffrey Moore
