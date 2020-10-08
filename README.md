@@ -4,8 +4,11 @@
 Open Source BIM Analytics Platform. 
 Accelerate AEC Through Data.
 - Agnostic, Scalable, and Agile
+
 First Track tools and build database
+
 Second build descriptive analytics (What happend?)
+
 ![Gartner Analytics Ascendancy Model](https://github.com/DaltonGOO/BIM-Analytics-Platform/blob/master/06_Images/Gartner%20Analytic%20Ascendancy%20Model.jpg)
 ## Functional Requirements
 - Allow users to change the interface and pick what data is shown
