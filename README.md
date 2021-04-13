@@ -1,4 +1,4 @@
-![Image Alien](https://github.com/DaltonGOO/BIM-Analytics-Platform/blob/master/06_Images/Logo%20v3%20WIth%20just%20the%20Alien_25.png)
+![Image Alien](https://github.com/DaltonGOO/BIM-Analytics-Platform/blob/master/06_Images/Logo%20v3%20WIth%20just%20the%20Alien_25_4-13-2021.png)
 
 # BIM-Analytics-Platform
 Open Source BIM Analytics Platform. 
